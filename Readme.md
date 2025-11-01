@@ -1,4 +1,5 @@
 # iDoc - AI-Powered Physiotherapy Motivation Platform
+
 [![Hack2Heal 2024](https://img.shields.io/badge/Hackathon-Hack2Heal-blue)](https://hack2heal.com)
 [![Team](https://img.shields.io/badge/Team-iDoc-green)](.)
 
